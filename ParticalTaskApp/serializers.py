@@ -1,15 +1,9 @@
 # myapp/serializers.py
-import re
 from rest_framework import serializers
 from django.contrib.auth import authenticate
 from django.core.validators import EmailValidator
 from django.core.exceptions import ObjectDoesNotExist
 from .models import CustomUser,FriendRequest, Friendship
-
-
-
-
-
 
 
 class UserRegistrationSerializer(serializers.ModelSerializer):

@@ -1,0 +1,7 @@
+Build the Docker image:-
+=> docker-compose build
+
+Run the Django project:-
+=> After the image is built, use the following command to run your Django project in a Docker container:-
+  => docker-compose up
+
