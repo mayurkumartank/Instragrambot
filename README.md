@@ -4,3 +4,6 @@ Step 2:- Activate Virtualenvirement
 Step 3:-pip install -r requirement.txt
 Step 4:- Python manage.py runserver
 
+Admin credinatial
+Email :- admin@gmail.com 
+Password :- 1234
